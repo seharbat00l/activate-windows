@@ -1,5 +1,5 @@
 
-###⚡ How to Activate Windows 10 the Right Way, Without Downloading Program. Activate Windows 10 Just Using Native [ Windows PowerShell (Admin) ].
+##⚡ How to Activate Windows 10 the Right Way, Without Downloading Program. Activate Windows 10 Just Using Native [ Windows PowerShell (Admin) ].
 
 ###### To activate Windows 10 copy and paste the command in [ Windows PowerShell (Admin) ].
 
